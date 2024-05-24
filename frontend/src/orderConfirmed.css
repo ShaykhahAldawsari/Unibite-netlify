@@ -1,0 +1,14 @@
+.receipt {
+  text-align: center;
+  padding: 20px;
+  background: #ffffff;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+  margin: 50px auto;
+}
+
+.anim-typewriter {
+  animation: typing 3.5s steps(40, end), blink-caret 0.75s step-end infinite;
+}
